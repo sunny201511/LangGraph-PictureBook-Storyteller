@@ -1,0 +1,18 @@
+# 敏感凭证
+.env
+*.env
+.venv/
+
+# 本地运行生成的临时多媒体文件
+stories/
+images/
+output/
+*.mp3
+*.mp4
+*.json
+
+# Python 缓存
+__pycache__/
+*.pyc
+.pytest_cache/
+.DS_Store

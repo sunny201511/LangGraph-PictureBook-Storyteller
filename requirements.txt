@@ -1,0 +1,6 @@
+langchain-ollama
+langgraph
+edge-tts
+pyttsx3
+pillow
+pytesseract
